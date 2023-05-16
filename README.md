@@ -12,7 +12,7 @@
 
 # UML泳道图示例
 
-![1](./UML.png)
+![UML泳道图](./UML.png)
 
 # 连接SQL SERVER
 
