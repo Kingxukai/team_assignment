@@ -6,17 +6,13 @@
 
 3.因为这只是个作业，所以我们只注重功能的实现而不注重性能
 
-
-
 # SAAS
 
 而SaaS的本质是续费。
 
-
-
 # UML泳道图示例
 
-![](C:\Users\王旭凯\Desktop\UML泳道图.png)
+![1](./UML.png)
 
 # 连接SQL SERVER
 
